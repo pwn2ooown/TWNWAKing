@@ -1,13 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm TWNWAKing, a script kiddie.
+I'm TWNWAKing, a weak script kiddie. Currently studying at department of Computer Science and Information Engineering at National Cheng Kung University.
+
+- 🔭 I’m currently working on **information security research**. And I also do CTF challenges, especially pwn (binary exploitation) challenges. 
+- 🌱 I’m currently learning software development, cybersecurity, data structure, algorithm, how to open source and a lot of miscellaneous stuff. I'm still a newbie in computer science now so I'm trying to learn as wide as I can.
+- ⚡ Fun fact: My nickname TWNWAKing comes from the Wrong Answer King of competitive programming in TaiWaN. TWN + WA + King.
+- 🤔 Still struggling with ~~math in college~~.
 
 ![TWNWAKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWNWAKing&count_private=false&show_icons=true&theme=monokai)
 
-- 🔭 I’m currently working on CTF challenges, especially pwn (binary exploitation). 
-- 🌱 I’m currently learning Web dev, C dev, CTF things, ML, competitive algo contests and a lot of stuff. I'm still a newbie in computer science now so I'm trying to learn as wide as I can.
-- ⚡ Fun fact: My nickname TWNWAKing comes from the Wrong Answer King of competitive programming in TaiWaN. TWN + WA + King.
-- 😄 I'm still cleaning up most of my repos, I'll make them public when they're tidied.
 <!--
 **TWNWAKing/TWNWAKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TWNWAKing&theme=monokai)
